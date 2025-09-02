@@ -1,13 +1,19 @@
 # 📚 Semana-01 HTML
 
 ## 📌 Conteúdo
-- Descrição dos tópicos estudados nesta semana
+- Estrutura do HTML.
+
+- Tags básicas: títulos, parágrafos, links, imagens, listas.
+
+- Estrutura semântica: header, nav, main, section, footer.
+
+- Formulários simples.
 
 ## 📝 Exercícios
-- Exercícios realizados
+- 1: Criar a estrutura mínima do HTML com título, parágrafos e lista. 01/09/2025
 
 ## 🚀 Mini-projeto
-- Projeto prático da semana
+- Página de perfil com bio, links e formulário de contato.
 
 ---
 ✨ Concluído em: [data]
