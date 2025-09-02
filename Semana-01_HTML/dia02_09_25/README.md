@@ -25,8 +25,8 @@
 - Criar um arquivo chamado canal.html.
 - Create a file named canal.html.
 
-- Usar as tags aprendidas: <a> para link, <img> para imagem, além de <h1> e <p>.
-- Use the tags you learned: <a> for link, <img> for image, plus <h1> and <p>.
+- Usar as tags aprendidas: `a` para link, `img` para imagem, além de `h1` e `p`.
+- Use the tags you learned: `a` for link, `img` for image, plus `h1` and `p`.
 
 - Não precisa estilizar ainda com CSS.
 - No CSS needed yet.
