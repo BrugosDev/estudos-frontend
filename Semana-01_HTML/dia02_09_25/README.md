@@ -5,28 +5,28 @@
 
 ## Problema para resolver | Problem to solve
 
-- Um amigo seu abriu um canal no YouTube sobre viagens e pediu que você crie uma página simples de divulgação. Ele quer:
-- A friend of yours opened a YouTube travel channel and asked you to create a simple promo page. He wants:
+- Uma agência de viagens pequena quer colocar na sua página:
+- A small travel agency wants to create a simple homepage with:
 
-- Um título com o nome do canal.
-- A title with the channel’s name.
+- O nome da agência em destaque. The agency’s name in bold at the top.
 
-- Um parágrafo explicando rapidamente sobre o canal.
-- A short paragraph explaining the channel.
+- Um parágrafo de boas-vindas. A welcome paragraph.
 
-- Uma imagem representando viagens (pode ser qualquer imagem que você achar na internet).
-- An image representing travel (any picture you find online).
+- Dois links externos: um para o Google Maps com o endereço da agência e outro para o WhatsApp para contato.
+- Two external links: one to Google Maps with the agency’s address, and another to WhatsApp for contact.
 
-- Um link para acessar o canal do YouTube.
-- A link to the YouTube channel.
+- Uma imagem mostrando um destino turístico. An image showing a travel destination.
+
+- Um link interno levando para uma página pacotes.html (mesmo que ainda não exista).
+- An internal link pointing to a page called pacotes.html (even if it doesn’t exist yet).
 
 ## Sua missão | Your mission
 
-- Criar um arquivo chamado canal.html.
-- Create a file named canal.html.
+- Criar um arquivo chamado agencia.html.
+- Create a file named agencia.html.
 
-- Usar as tags aprendidas: <a> para link, <img> para imagem, além de <h1> e <p>.
-- Use the tags you learned: <a> for link, <img> for image, plus <h1> and <p>.
+- Usar as tags aprendidas: 'a' para link, 'img' para imagem, além de 'h1' e 'p'.
+- Use the tags you learned: 'a' for link, 'img' for image, plus 'h1' and 'p'.
 
 - Não precisa estilizar ainda com CSS.
 - No CSS needed yet.

@@ -10,7 +10,8 @@
 - Formulários simples.
 
 ## 📝 Exercícios
-- 1: Criar a estrutura mínima do HTML com título, parágrafos e lista. 01/09/2025
+- 1: Criar a estrutura mínima do HTML com título, parágrafos e lista. 01/09/2025.
+- 2: Criar uma página HTML com título, parágrafo, imagem e link. 02/09/2025
 
 ## 🚀 Mini-projeto
 - Página de perfil com bio, links e formulário de contato.
