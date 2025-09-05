@@ -14,6 +14,7 @@
 - 2: Criar uma página HTML com título, parágrafo, imagem e link. 02/09/2025
 - 3: Criar uma página HTML utilizando tags semânticas: 'header', 'nav', 'section' e 'footer'. 03/09/2025
 - 4: Criar uma tabela em HTML usando 'table', 'tr', 'th' e 'td'. 04/09/2025
+- 5: Criar um formulário básico em HTML usando 'form', 'input', 'label' e 'button'. 05/09/2025
 
 ## 🚀 Mini-projeto
 - Página de perfil com bio, links e formulário de contato.
