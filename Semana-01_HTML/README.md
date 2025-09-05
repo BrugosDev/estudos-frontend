@@ -12,6 +12,8 @@
 ## 📝 Exercícios
 - 1: Criar a estrutura mínima do HTML com título, parágrafos e lista. 01/09/2025.
 - 2: Criar uma página HTML com título, parágrafo, imagem e link. 02/09/2025
+- 3: Criar uma página HTML utilizando tags semânticas: 'header', 'nav', 'section' e 'footer'. 03/09/2025
+- 4: Criar uma tabela em HTML usando 'table', 'tr', 'th' e 'td'. 04/09/2025
 
 ## 🚀 Mini-projeto
 - Página de perfil com bio, links e formulário de contato.
