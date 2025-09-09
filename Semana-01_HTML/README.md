@@ -1,6 +1,3 @@
-Claro! Eu já acessei o conteúdo do seu repositório no GitHub e preparei uma versão bilíngue (português e inglês) do seu `README.md` da **Semana 01 - HTML**. Aqui está:
-
----
 
 # 📚 Semana-01 HTML | Week 01 - HTML
 
@@ -62,7 +59,3 @@ Claro! Eu já acessei o conteúdo do seu repositório no GitHub e preparei uma v
 **Profile page with bio, links, and contact form.**
 
 ✨ Concluído em | Completed on: **08/09/2025**
-
----
-
-Se quiser, posso te ajudar a manter esse estilo bilíngue nas próximas semanas também — ou até automatizar a estrutura do README com um template. Quer que eu prepare isso pra você?
