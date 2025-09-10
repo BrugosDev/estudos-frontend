@@ -57,4 +57,8 @@
 **Página de perfil com bio, links e formulário de contato.**  
 **Profile page with bio, links, and contact form.**
 
+<<<<<<< HEAD
 ✨ Concluído em | Completed on: **08/09/2025**
+=======
+✨ Concluído em | Completed on: **08/09/2025**
+>>>>>>> 11dba687900441ff6c762394aaedf629d5b8027f
