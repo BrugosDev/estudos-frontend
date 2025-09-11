@@ -28,8 +28,8 @@ Eles querem | They want:
 
 ##  Sua missão | Your Mission
 
-- Criar o arquivo `noticias.html`.  
-  Create the file `noticias.html`.
+- Criar o arquivo `blog.html`.  
+  Create the file `blog.html`.
 
 - Usar uma página estática para aplicar o mesmo estilo a vários elementos.  
   Use a static page to apply the same style to multiple elements.
