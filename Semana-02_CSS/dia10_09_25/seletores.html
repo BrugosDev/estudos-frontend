@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Seletores Avançados</title>
+        <style>
+            #title {
+                color: darkblue;
+                text-align: center;
+            }
+
+            .destaque {
+                color: red;
+                font-weight: bold;
+            }
+
+            section p {
+                color: green;
+            }
+
+            nav > ul > li {
+                display: inline;
+                margin: 0 10px;  
+            }
+
+            a:hover {
+                color: orange;
+            }
+        </style>
+    </head>
+        <body>
+            <h1 id="title">Bem-vindo ao Exercício Guiado(Welcome to the Guided Exercise)</h1>
+
+                <nav>
+                    <ul>
+                        <li><a href="#home">Início(Home)</a></li>
+                        <li><a href="#about">Sobre(About)</a></li>
+                        <li><a href="#services">Serviços(Services)</a></li>
+                        <li><a href="#contact">Contato(Contact)</a></li>
+                    </ul>
+                </nav>
+
+                <section>
+                    <p>Esse parágrafo está dentro da section.(this paragraph is within the section.)</p>
+                    <p class="destaque">Esse parágrafo tem uma classe de destaque.(This paragraph has a highlight class.)</p>
+                </section>
+        </body>
+</html>
