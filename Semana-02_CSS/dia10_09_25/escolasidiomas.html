@@ -8,10 +8,10 @@
             body {
                 font-family: Arial, sans-serif;
                 margin: 20px;
-                background-color: bisque;
+                background-color: white;
             }
             #title {
-                color: darkblue;
+                color: black;
                 text-align: center;
             }
 
@@ -32,6 +32,10 @@
             a:hover {
                 color: orange;
             }
+
+            .price {
+                color: red;
+            }
         </style>
     </head>
         <body>
@@ -47,14 +51,47 @@
                     </ul>
                 </nav>
 
-                <section>
-                    <p>Oferecemos cursos de inglês, espanhol e francês.(We offer courses in English, Spanish, and French.)</p>
-                    <p class="destaque">Matrículas abertas para o próximo semestre!(Enrollments open for the next semester!)</p>
+                <section id="about">
+                    <h2>Sobre nós(About our)</h2>
+                        <p>Somos a melhor escola de idiomas da sua rua.</p>
+                        <p>We are the best language school on your street.</p>
+
                 </section>
-                
-                <section>
-                    <h2>Inglês</h2>
-                    <p>Curso de inglês para todos os níveis.(English course for all levels.)</p>
+
+                <section id="courses">
+                    <h2>Cursos(Courses)</h2>
+                    <table border="1">
+                        <tr>
+                            <td>Curso</td>
+                            <td>Preço</td>
+                            <td>Tempo de Curso</td>
+                        </tr>
+
+                        <tr>
+                            <th>Inglês</th>
+                            <th class="price">R$100 por Mês</th>
+                            <th>1 ano</th>
+                        </tr>
+
+                        <tr>
+                            <th>Espanhol</th>
+                            <th class="price">R$90 por Mês</th>
+                            <th> 1 ano</th>
+                        </tr>
+
+                        <tr>
+                            <th>Português</th>
+                            <th class="price">R$ 60 por Mês</th>
+                            <th>1 ano</th>
+                        </tr>
+                    </table>
+
+                    <p>Ao invés de parágrafos eu fiz uma tabela para por vários cursos e de uma maneira mais auto-explicativa.</p>
+                    <p>Instead of paragraphs, I made a table to include several courses in a more self-explanatory way.</p>
                 </section>
+
+                <footer>
+                    <p>&copy; Escola de Idiomas 2025</p>
+                </footer>
         </body>
 </html>
