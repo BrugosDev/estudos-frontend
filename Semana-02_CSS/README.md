@@ -8,7 +8,7 @@
 - 9: Criar uma página com classes e id no CSS. 09/09/2025
 - 10: CSS – seletores avançados e hierarquia. 10/09/2025
 - 11: Entender box model e espaçamento. 11/09/2025
-- 
+- 12: Usar cores, fundos e imagens de fundo em CSS. 23/10/2025
 
 ## 🚀 Mini-projeto
 - Projeto prático da semana
